@@ -9,6 +9,8 @@ O programa utiliza um ícone personalizado armazenado na pasta System32.
 - Python 3.x
 - Bibliotecas:
   - `plyer`
+    
   - `import time`
+    
   -`from plyer import notification`
 
